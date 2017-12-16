@@ -3,7 +3,7 @@
 
 #The length of time the loadtest runs
 
-count="5"
+count="8"
 #creating the columns in the results doc
 echo -e "CO\t N\t idle" > results.dat
 
